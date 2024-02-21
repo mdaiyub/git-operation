@@ -1,0 +1,2 @@
+Instruction: Pull from the remote directory
+git pull
