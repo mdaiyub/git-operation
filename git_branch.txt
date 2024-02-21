@@ -1,0 +1,6 @@
+Instruction: How many branches are existing?
+git branch
+
+Instruction: Create new branch in te repository
+git branch development
+
