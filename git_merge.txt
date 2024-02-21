@@ -1,0 +1,5 @@
+Instruction: Merge main branch with development
+git merge main -m "Merging on development with main"
+
+Instruction: Merge development branch with main
+git merge development -m "Merging on main with development"
