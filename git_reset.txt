@@ -1,0 +1,8 @@
+Instruction: If I want unstage from the staged files
+git reset
+
+Instruction: Restore deleted file by the git 
+git reset --hard
+
+Instruction: unstage after the committed
+git reset HEAD~

@@ -1,0 +1,2 @@
+Instruction: To commit after all changes
+git commit -m "changes summary"

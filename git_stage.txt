@@ -1,0 +1,11 @@
+Instruction: Give on the stage of created all files
+git add filename
+
+Instruction: Give on the stage by the specific file
+git add --all
+
+Instruction: Stage all file only in the directory
+git add .
+
+Instruction: All's in the stage except deleted files
+git add *

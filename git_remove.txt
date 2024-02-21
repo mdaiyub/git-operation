@@ -1,0 +1,8 @@
+Instruction: Remove file in the git 
+git rm filename
+
+Instruction: Forcibly delete after modification
+git rm filename -f
+
+Instruction: Delete whole folder (included all sub folders) recursively
+git rm -r foldername 

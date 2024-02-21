@@ -1,0 +1,5 @@
+Instruction: For the git initialization
+git init
+
+Instruction: to check the file changes 
+git status
